@@ -403,7 +403,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 function setLanguage(lang) {
-    const elements = document.querySelectorAll('[data-en], [data-pt], [data-fr]');
+    const elements = document.querySelectorAll('[data-en], [data-pt], [data-fr], [data-es]');
     elements.forEach(element => {
         const text = element.getAttribute(`data-${lang}`);
         if (text) {

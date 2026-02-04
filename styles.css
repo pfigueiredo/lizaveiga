@@ -179,8 +179,9 @@ html {
     margin: 0 auto;
     padding: 0 4rem;
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-start;
     align-items: center;
+    gap: 4rem;
 }
 
 .logo {
@@ -257,6 +258,7 @@ html {
     border: none;
     cursor: pointer;
     padding: 0.5rem;
+    margin-left: auto;
 }
 
 .mobile-menu-toggle span {
@@ -1228,6 +1230,17 @@ section {
 /* ============================================
    RESPONSIVE DESIGN
    ============================================ */
+@media (max-width: 1250px) {
+    .nav-menu {
+        display: none;
+    }
+    
+    .mobile-menu-toggle {
+        display: flex;
+        margin-left: auto;
+    }
+}
+
 @media (max-width: 1024px) {
     .nav-container {
         padding: 0 2rem;
@@ -1287,6 +1300,7 @@ section {
     
     .mobile-menu-toggle {
         display: flex;
+        margin-left: auto;
     }
     
     .hero {

@@ -147,3 +147,55 @@ https://youtu.be/MuJ2_FqkOYA
 https://youtu.be/GpvZyKxuDyU
 https://youtu.be/c-hb3s0yRzU
 https://youtu.be/E6cA_A1DnMQ
+
+LIZA VEIGA
+
+A los 15 años, Liza Veiga comenzó a cantar fado e inició su carrera artística
+como actriz y cantante en el Teatro C.A.C. de Torres Vedras (Portugal); a los
+17 años, ya era fadista profesional en el restaurante «Forcado» (Lisboa).
+A los 20 años ingresó en el Conservatorio Nacional, donde obtuvo, entre 250
+alumnos, la mejor nota como cantante lírica.
+Todavía en su segundo año en el Conservatorio, fue invitada a irse a Alemania,
+donde permaneció ocho años interpretando el papel protagonista de
+Christine en la versión musical alemana del musical «El fantasma de la ópera».
+Durante este periodo, graba su primer álbum en solitario, acompañada por la
+Orquesta Sinfónica de Praga, y participa en varias óperas, como La flauta
+mágica de Mozart, donde fue ovacionada, dando voz y alma a la célebre aria
+«La reina de la noche».
+Inicia un proceso de fusión de varios estilos: ópera, rock y pop. En 2014, ganó
+en Estados Unidos el premio internacional FOX MUSIC AWARDS, en la
+categoría BEST LIRIC VOICE FUSION.
+En el teatro, trabajó con varios directores portugueses y extranjeros, y
+representó a Portugal en el Festival Internacional de Teatro de Opole, en
+Polonia, con la obra «Inês de Portugal».
+En Portugal, destacan los conciertos realizados en el Salón Noble del
+Conservatorio Nacional, el Salón Noble del Palacio Foz, el Museo de la Música,
+la Iglesia de San Sebastián (Setúbal) y el Salón Noble del Ayuntamiento de
+Setúbal, entre otros.
+Como parte de un proyecto del Atelier de Ópera de la EMCN, interpretó doce
+veces la ópera «La flauta mágica», de Mozart, en el papel de la «Reina de la
+Noche», en el Teatro da Trindade, en Quinta da Regaleira, en el Palacio da
+Ajuda y en Quinta da Bacalhoa, con puesta en escena de Jorge Listopad.
+Con el mismo director, interpretó el papel de Despina, de la ópera «Cosi fan
+tutti», de Mozart, representada en el Jardín de Invierno del Teatro São Luiz y
+en el Cine-Teatro de Amadora.
+Interpretó el papel protagonista de Kate, del musical de Cole Porter «Kiss-me
+Kate», en el Teatro de São Luiz, dentro de la serie «Los grandes maestros del
+musical americano».
+
+En 2015, fue la cantante oficial en la celebración de los 150 años de la Cruz
+Roja Portuguesa en el Convento de São Francisco, en Santarém.
+Actualmente, se encuentran en proceso de creación tres proyectos: «Cyber
+Diva», «Diva Rock» y «Madre Diva», que darán lugar a la grabación de un
+segundo álbum con el músico y productor Fernando Abrantes.
+En 2022 será nombrada «Lady» de la Soberana y Militar Orden Hospitalaria de
+San Juan de Jerusalén, de Rodas y de Malta, y ha iniciado un proyecto para
+valorar el papel de la mujer en la sociedad.
+En los últimos años, ha participado en diversos eventos, públicos y privados,
+en Portugal y en el extranjero, donde ha actuado en los ámbitos musicales
+que domina: el lírico, el fado y el pop-rock.
+Algunos vídeos promocionales:
+https://youtu.be/MuJ2_FqkOYA
+https://youtu.be/GpvZyKxuDyU
+https://youtu.be/c-hb3s0yRzU
+https://youtu.be/E6cA_A1DnMQ
